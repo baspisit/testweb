@@ -1,1 +1,0 @@
-import{j as a}from"./index-zuEooWS3.js";function s({children:n,tone:e="accent"}){const t={accent:"bg-accent/10 text-accent",brand:"bg-brand/10 text-brand",neutral:"bg-canvas text-muted ring-1 ring-inset ring-line"};return a.jsx("span",{className:`inline-flex rounded-full px-2.5 py-1 text-xs font-semibold leading-none ${t[e]}`,children:n})}export{s as B};
