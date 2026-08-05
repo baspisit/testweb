@@ -1,0 +1,1 @@
+import{r as s,j as e}from"./index-zuEooWS3.js";function f({src:t,fallback:a,...n}){const[o,r]=s.useState(!1);return s.useEffect(()=>r(!1),[t]),o?e.jsx(e.Fragment,{children:a}):e.jsx("img",{src:t,onError:()=>r(!0),...n})}export{f as O};
